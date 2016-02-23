@@ -1,0 +1,28 @@
+name: Sublyim Fire
+favicon: null
+layout_spectrum: 0.5409501418471336
+typography_spectrum: 0.7139690867625177
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.31889300560578704
+  lightness: 0.05994902201928198
+  saturation: 0.30900752334855497
+  rhythmicContrast: 0.47855666861869395
+purpose: []
